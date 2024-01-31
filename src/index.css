@@ -63,6 +63,25 @@ button:focus-visible {
     color: #747bff;
   }
   button {
-    background-color: #f9f9f9;
+    background-color: #bff3c5;
+
   }
+}
+
+input{
+  border: 60px;
+  background-color: aqua;
+  text-align: center;
+  height: 25px;
+ }
+.Login-Form{
+  width: 150px;
+  margin: 0 auto;
+
+}
+.Login-Form input[type='text'],
+.Login-Form input[type='password'] {
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0;
 }
